@@ -1,0 +1,14 @@
+# $PLX Token - Pollux XRPL
+# Live at: https://pollux254.github.io/pollux_xrpl/
+
+[[ACCOUNTS]]
+address = "rGLEgQdktoN4Be5thhk6seg1HifGPBxY5Q"
+desc = "Trading and building all across XRPL"
+name = "Pollux XRPL"
+
+[[CURRENCIES]]
+code = "PLX"
+issuer = "rGLEgQdktoN4Be5thhk6seg1HifGPBxY5Q"
+name = "$PLX"
+icon = "https://raw.githubusercontent.com/pollux254/pollux_xrpl/main/IMG_4817.jpeg"
+desc = "$PLX will trade and work all over XRPL"
